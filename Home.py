@@ -26,6 +26,4 @@ st.markdown(
 
 space()
 
-st.write("#### Connect me on [LinkedIn](https://www.linkedin.com/in/abdul-jaweed-datascientist/)")
-st.write("#### Follow me on [GitHub](https://github.com/Abdul-Jaweed)")
-st.write("#### Follow me on [Medium](https://medium.com/@abduljaweed)")
+st.write("#### Connect me on [LinkedIn](https://www.linkedin.com/in/vaibhav-shekade-a78bb11ba/)")
